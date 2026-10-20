@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tqdm
+torch
+# GPU stage only (Kaggle):
+sentence-transformers
+transformers
+datasets
+vllm
+# optional audit streaming:
+# kafka-python
